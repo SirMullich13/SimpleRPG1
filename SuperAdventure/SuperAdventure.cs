@@ -34,7 +34,7 @@ namespace SuperAdventure
         {
             InitializeComponent();
 
-            Location location = new Location(1, "Home", "This is your house."); //we create a new Location object, and save it to the variable location
+            Location location = new Location(1, "Home!", "This is your house."); //we create a new Location object, and save it to the variable location
             //the variable name is all lowercase to make it different from the class
             //then we assign values to the member variables of the Location class, whose object here is location
 
